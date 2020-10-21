@@ -53,3 +53,10 @@ header h2 {
 #login-modal-header {
     background-color: #901cad;
 }
+
+#carouselButton{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
